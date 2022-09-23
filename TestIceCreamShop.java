@@ -1,0 +1,16 @@
+package IceCream;
+
+public class TestIceCreamShop {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		IceCreamShop icecream;
+		icecream = new IceCreamShop();
+		
+		
+		
+		
+
+	}
+
+}
